@@ -1,26 +1,25 @@
-# School Cafeteria App and Cashier System
+# نظام إدارة كافتيريا المدرسة ونظام الكاشير
 
-##  Overview
-This project is a **School Cafeteria Management and Cashier System** developed as a complete solution for managing school meals.  
-It streamlines the process of reserving student meals, managing payments, handling absences, and processing refunds.
+##  نظرة عامة
+هذا المشروع عبارة عن **نظام متكامل لإدارة كافتيريا المدرسة مع نظام كاشير**.  
+يساعد على تنظيم عملية حجز وجبات الطلاب، إدارة الدفع، التعامل مع الغياب، واسترجاع المبالغ.
 
-##  Features
-- Display of reserved student meals with search functionality  
-- Dual payment system: balance deduction or cash  
-- Absence management and meal return process  
-- Confirmation of non-refundable meals  
-- Daily calculation of required meals  
-- Refund management  
+##  المميزات
+- عرض الوجبات المحجوزة مع إمكانية البحث  
+- نظام دفع مزدوج: خصم من الرصيد أو الدفع نقدًا  
+- إدارة الغياب واسترجاع الوجبات  
+- تأكيد الوجبات غير القابلة للاسترجاع  
+- حساب يومي لعدد الوجبات المطلوبة  
+- إدارة عمليات استرداد المبالغ  
 
-##  Technologies Used
-- **Frontend (Mobile):** Flutter  
-- **Backend:** PHP  
-- **Database:** MySQL  
+##  التقنيات المستخدمة
+- **واجهة المستخدم (الموبايل):** Flutter  
+- **الخادم (Backend):** PHP  
+- **قاعدة البيانات:** MySQL  
 
-##  Purpose
-The goal of this system is to improve efficiency in school cafeteria operations, reduce food waste, and provide flexible payment options for students.
+##  الهدف
+يهدف النظام إلى رفع كفاءة عمل الكافتيريا المدرسية، تقليل هدر الطعام، وتوفير خيارات دفع مرنة للطلاب.
 
-##  Project Status
- The project is **fully completed** and ready for deployment.  
-Source code and documentation are included in this repository.
-
+## 📂 حالة المشروع
+ المشروع **مكتمل بالكامل** وجاهز للنشر.  
+يشمل الكود المصدري والوثائق داخل هذا المستودع.
